@@ -58,4 +58,4 @@ The assignment is worth 100 points total:
 
 ## Submission
 
-We'll be using GitHub Classroom for this assignment. You will submit your assignment via GitHub. Just make sure your completed `style.css` file is committed and pushed by the assignment's deadline to the master branch of the GitHub repo that was created for you by GitHub Classroom.
+We'll be using GitHub Classroom for this assignment. You will submit your assignment via GitHub. Just make sure your completed `style.css` file is committed and pushed by the assignment's deadline to the master branch of the GitHub repo that was created for you by GitHub Classroom.  Note that you do not need to publish your page anywhere.
